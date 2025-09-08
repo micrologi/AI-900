@@ -4,7 +4,7 @@ from azure.core.credentials import AzureKeyCredential
 from dotenv import load_dotenv
 import os 
 
-load_dotenv() 
+load_dotenv('.env')
 
 while True:
     opiniao = input("Informe sua opinião: ")

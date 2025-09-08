@@ -5,7 +5,7 @@ from azure.core.credentials import AzureKeyCredential
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
+load_dotenv('.env')
 
 # Configurações da sua conta do Azure AI Foundry
 endpoint = os.getenv("endpoint")
