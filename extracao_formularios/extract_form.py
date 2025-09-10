@@ -1,4 +1,3 @@
-# pip install requests --user
 import logging
 import time
 from collections.abc import Callable

@@ -1,5 +1,3 @@
-#pip install openai --user
-#pip install pillow --user
 from openai import AzureOpenAI
 import requests
 from PIL import Image

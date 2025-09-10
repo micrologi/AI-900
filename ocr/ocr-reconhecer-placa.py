@@ -1,4 +1,3 @@
-#pip install azure-ai-documentintelligence --user
 from typing import Optional
 from azure.core.credentials import AzureKeyCredential
 from azure.ai.documentintelligence import DocumentIntelligenceClient

@@ -1,4 +1,3 @@
-#pip install azure-cognitiveservices-speech
 import sys
 import threading
 import time

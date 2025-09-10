@@ -42,3 +42,6 @@ Antes de executar os códigos, certifique-se de ter:
 - Bibliotecas necessárias instaladas (presentes em `requirements.txt`):  
   ```bash
   pip install -r requirements.txt
+- Caso deseje rodar um ambiente:
+  ```bash
+  python -m venv nome_do_ambiente
