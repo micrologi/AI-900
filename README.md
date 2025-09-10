@@ -7,7 +7,7 @@ O objetivo é fornecer códigos de apoio para estudos e prática, facilitando a 
 ## 👨‍💻 Autor
 
 **Marlon Andrei de Carvalho**  
-📌 Especialista em **Engenharia de Dados, Inteligência Artificial e Cloud Computing**
+📌 Especialista em **Ciência da Computação, Google Data Engineer, Inteligência Artificial e Cloud Computing**
 
 ---
 
